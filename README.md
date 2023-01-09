@@ -1,5 +1,6 @@
 # ModelingAndDiscreteSimulationProject
 The dining hall system in universities was simulated. There is a multi-service and queue structure.
+<b>Java and AnyLogic program tools are used.</b>
 <br>
 <br>
 <h2> Original System Design </h2>
